@@ -1,2 +1,2 @@
-import getThemeProp from './getThemeProp'
-export default getThemeProp
+import getThemeProp from './getThemeProp';
+export default getThemeProp;
