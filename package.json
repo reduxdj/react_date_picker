@@ -22,7 +22,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tresko/react-datepicker.git"
+    "url": "git+https://github.com/reduxdj/react_date_picker.git"
   },
   "scripts": {
     "build": "../../node_modules/.bin/rollup -c rollup.config.js",
