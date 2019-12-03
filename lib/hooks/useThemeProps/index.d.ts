@@ -1,2 +1,2 @@
-import useThemeProps from './useThemeProps';
-export default useThemeProps;
+import useThemeProps from './useThemeProps'
+export default useThemeProps
